@@ -1,0 +1,423 @@
+{_lambda_, c, hhh, a, b, z, cc, chhh, ca, cb, cz, hhhc, hhhhhh, hhha, hhhb, hhhz
+, ac, ahhh, aa, ab, az, bc, bhhh, ba, bb, bz, zc, zhhh, za, zb, zz, ccc, cchhh, 
+cca, ccb, ccz, chhhc, chhhhhh, chhha, chhhb, chhhz, cac, cahhh, caa, cab, caz, c
+bc, cbhhh, cba, cbb, cbz, czc, czhhh, cza, czb, czz, hhhcc, hhhchhh, hhhca, hhhc
+b, hhhcz, hhhhhhc, hhhhhhhhh, hhhhhha, hhhhhhb, hhhhhhz, hhhac, hhhahhh, hhhaa, 
+hhhab, hhhaz, hhhbc, hhhbhhh, hhhba, hhhbb, hhhbz, hhhzc, hhhzhhh, hhhza, hhhzb,
+ hhhzz, acc, achhh, aca, acb, acz, ahhhc, ahhhhhh, ahhha, ahhhb, ahhhz, aac, aah
+hh, aaa, aab, aaz, abc, abhhh, aba, abb, abz, azc, azhhh, aza, azb, azz, bcc, bc
+hhh, bca, bcb, bcz, bhhhc, bhhhhhh, bhhha, bhhhb, bhhhz, bac, bahhh, baa, bab, b
+az, bbc, bbhhh, bba, bbb, bbz, bzc, bzhhh, bza, bzb, bzz, zcc, zchhh, zca, zcb, 
+zcz, zhhhc, zhhhhhh, zhhha, zhhhb, zhhhz, zac, zahhh, zaa, zab, zaz, zbc, zbhhh,
+ zba, zbb, zbz, zzc, zzhhh, zza, zzb, zzz, cccc, ccchhh, ccca, cccb, cccz, cchhh
+c, cchhhhhh, cchhha, cchhhb, cchhhz, ccac, ccahhh, ccaa, ccab, ccaz, ccbc, ccbhh
+h, ccba, ccbb, ccbz, cczc, cczhhh, ccza, cczb, cczz, chhhcc, chhhchhh, chhhca, c
+hhhcb, chhhcz, chhhhhhc, chhhhhhhhh, chhhhhha, chhhhhhb, chhhhhhz, chhhac, chhha
+hhh, chhhaa, chhhab, chhhaz, chhhbc, chhhbhhh, chhhba, chhhbb, chhhbz, chhhzc, c
+hhhzhhh, chhhza, chhhzb, chhhzz, cacc, cachhh, caca, cacb, cacz, cahhhc, cahhhhh
+h, cahhha, cahhhb, cahhhz, caac, caahhh, caaa, caab, caaz, cabc, cabhhh, caba, c
+abb, cabz, cazc, cazhhh, caza, cazb, cazz, cbcc, cbchhh, cbca, cbcb, cbcz, cbhhh
+c, cbhhhhhh, cbhhha, cbhhhb, cbhhhz, cbac, cbahhh, cbaa, cbab, cbaz, cbbc, cbbhh
+h, cbba, cbbb, cbbz, cbzc, cbzhhh, cbza, cbzb, cbzz, czcc, czchhh, czca, czcb, c
+zcz, czhhhc, czhhhhhh, czhhha, czhhhb, czhhhz, czac, czahhh, czaa, czab, czaz, c
+zbc, czbhhh, czba, czbb, czbz, czzc, czzhhh, czza, czzb, czzz, hhhccc, hhhcchhh,
+ hhhcca, hhhccb, hhhccz, hhhchhhc, hhhchhhhhh, hhhchhha, hhhchhhb, hhhchhhz, hhh
+cac, hhhcahhh, hhhcaa, hhhcab, hhhcaz, hhhcbc, hhhcbhhh, hhhcba, hhhcbb, hhhcbz,
+ hhhczc, hhhczhhh, hhhcza, hhhczb, hhhczz, hhhhhhcc, hhhhhhchhh, hhhhhhca, hhhhh
+hcb, hhhhhhcz, hhhhhhhhhc, hhhhhhhhhhhh, hhhhhhhhha, hhhhhhhhhb, hhhhhhhhhz, hhh
+hhhac, hhhhhhahhh, hhhhhhaa, hhhhhhab, hhhhhhaz, hhhhhhbc, hhhhhhbhhh, hhhhhhba,
+ hhhhhhbb, hhhhhhbz, hhhhhhzc, hhhhhhzhhh, hhhhhhza, hhhhhhzb, hhhhhhzz, hhhacc,
+ hhhachhh, hhhaca, hhhacb, hhhacz, hhhahhhc, hhhahhhhhh, hhhahhha, hhhahhhb, hhh
+ahhhz, hhhaac, hhhaahhh, hhhaaa, hhhaab, hhhaaz, hhhabc, hhhabhhh, hhhaba, hhhab
+b, hhhabz, hhhazc, hhhazhhh, hhhaza, hhhazb, hhhazz, hhhbcc, hhhbchhh, hhhbca, h
+hhbcb, hhhbcz, hhhbhhhc, hhhbhhhhhh, hhhbhhha, hhhbhhhb, hhhbhhhz, hhhbac, hhhba
+hhh, hhhbaa, hhhbab, hhhbaz, hhhbbc, hhhbbhhh, hhhbba, hhhbbb, hhhbbz, hhhbzc, h
+hhbzhhh, hhhbza, hhhbzb, hhhbzz, hhhzcc, hhhzchhh, hhhzca, hhhzcb, hhhzcz, hhhzh
+hhc, hhhzhhhhhh, hhhzhhha, hhhzhhhb, hhhzhhhz, hhhzac, hhhzahhh, hhhzaa, hhhzab,
+ hhhzaz, hhhzbc, hhhzbhhh, hhhzba, hhhzbb, hhhzbz, hhhzzc, hhhzzhhh, hhhzza, hhh
+zzb, hhhzzz, accc, acchhh, acca, accb, accz, achhhc, achhhhhh, achhha, achhhb, a
+chhhz, acac, acahhh, acaa, acab, acaz, acbc, acbhhh, acba, acbb, acbz, aczc, acz
+hhh, acza, aczb, aczz, ahhhcc, ahhhchhh, ahhhca, ahhhcb, ahhhcz, ahhhhhhc, ahhhh
+hhhhh, ahhhhhha, ahhhhhhb, ahhhhhhz, ahhhac, ahhhahhh, ahhhaa, ahhhab, ahhhaz, a
+hhhbc, ahhhbhhh, ahhhba, ahhhbb, ahhhbz, ahhhzc, ahhhzhhh, ahhhza, ahhhzb, ahhhz
+z, aacc, aachhh, aaca, aacb, aacz, aahhhc, aahhhhhh, aahhha, aahhhb, aahhhz, aaa
+c, aaahhh, aaaa, aaab, aaaz, aabc, aabhhh, aaba, aabb, aabz, aazc, aazhhh, aaza,
+ aazb, aazz, abcc, abchhh, abca, abcb, abcz, abhhhc, abhhhhhh, abhhha, abhhhb, a
+bhhhz, abac, abahhh, abaa, abab, abaz, abbc, abbhhh, abba, abbb, abbz, abzc, abz
+hhh, abza, abzb, abzz, azcc, azchhh, azca, azcb, azcz, azhhhc, azhhhhhh, azhhha,
+ azhhhb, azhhhz, azac, azahhh, azaa, azab, azaz, azbc, azbhhh, azba, azbb, azbz,
+ azzc, azzhhh, azza, azzb, azzz, bccc, bcchhh, bcca, bccb, bccz, bchhhc, bchhhhh
+h, bchhha, bchhhb, bchhhz, bcac, bcahhh, bcaa, bcab, bcaz, bcbc, bcbhhh, bcba, b
+cbb, bcbz, bczc, bczhhh, bcza, bczb, bczz, bhhhcc, bhhhchhh, bhhhca, bhhhcb, bhh
+hcz, bhhhhhhc, bhhhhhhhhh, bhhhhhha, bhhhhhhb, bhhhhhhz, bhhhac, bhhhahhh, bhhha
+a, bhhhab, bhhhaz, bhhhbc, bhhhbhhh, bhhhba, bhhhbb, bhhhbz, bhhhzc, bhhhzhhh, b
+hhhza, bhhhzb, bhhhzz, bacc, bachhh, baca, bacb, bacz, bahhhc, bahhhhhh, bahhha,
+ bahhhb, bahhhz, baac, baahhh, baaa, baab, baaz, babc, babhhh, baba, babb, babz,
+ bazc, bazhhh, baza, bazb, bazz, bbcc, bbchhh, bbca, bbcb, bbcz, bbhhhc, bbhhhhh
+h, bbhhha, bbhhhb, bbhhhz, bbac, bbahhh, bbaa, bbab, bbaz, bbbc, bbbhhh, bbba, b
+bbb, bbbz, bbzc, bbzhhh, bbza, bbzb, bbzz, bzcc, bzchhh, bzca, bzcb, bzcz, bzhhh
+c, bzhhhhhh, bzhhha, bzhhhb, bzhhhz, bzac, bzahhh, bzaa, bzab, bzaz, bzbc, bzbhh
+h, bzba, bzbb, bzbz, bzzc, bzzhhh, bzza, bzzb, bzzz, zccc, zcchhh, zcca, zccb, z
+ccz, zchhhc, zchhhhhh, zchhha, zchhhb, zchhhz, zcac, zcahhh, zcaa, zcab, zcaz, z
+cbc, zcbhhh, zcba, zcbb, zcbz, zczc, zczhhh, zcza, zczb, zczz, zhhhcc, zhhhchhh,
+ zhhhca, zhhhcb, zhhhcz, zhhhhhhc, zhhhhhhhhh, zhhhhhha, zhhhhhhb, zhhhhhhz, zhh
+hac, zhhhahhh, zhhhaa, zhhhab, zhhhaz, zhhhbc, zhhhbhhh, zhhhba, zhhhbb, zhhhbz,
+ zhhhzc, zhhhzhhh, zhhhza, zhhhzb, zhhhzz, zacc, zachhh, zaca, zacb, zacz, zahhh
+c, zahhhhhh, zahhha, zahhhb, zahhhz, zaac, zaahhh, zaaa, zaab, zaaz, zabc, zabhh
+h, zaba, zabb, zabz, zazc, zazhhh, zaza, zazb, zazz, zbcc, zbchhh, zbca, zbcb, z
+bcz, zbhhhc, zbhhhhhh, zbhhha, zbhhhb, zbhhhz, zbac, zbahhh, zbaa, zbab, zbaz, z
+bbc, zbbhhh, zbba, zbbb, zbbz, zbzc, zbzhhh, zbza, zbzb, zbzz, zzcc, zzchhh, zzc
+a, zzcb, zzcz, zzhhhc, zzhhhhhh, zzhhha, zzhhhb, zzhhhz, zzac, zzahhh, zzaa, zza
+b, zzaz, zzbc, zzbhhh, zzba, zzbb, zzbz, zzzc, zzzhhh, zzza, zzzb, zzzz, ccccc, 
+cccchhh, cccca, ccccb, ccccz, ccchhhc, ccchhhhhh, ccchhha, ccchhhb, ccchhhz, ccc
+ac, cccahhh, cccaa, cccab, cccaz, cccbc, cccbhhh, cccba, cccbb, cccbz, ccczc, cc
+czhhh, cccza, ccczb, ccczz, cchhhcc, cchhhchhh, cchhhca, cchhhcb, cchhhcz, cchhh
+hhhc, cchhhhhhhhh, cchhhhhha, cchhhhhhb, cchhhhhhz, cchhhac, cchhhahhh, cchhhaa,
+ cchhhab, cchhhaz, cchhhbc, cchhhbhhh, cchhhba, cchhhbb, cchhhbz, cchhhzc, cchhh
+zhhh, cchhhza, cchhhzb, cchhhzz, ccacc, ccachhh, ccaca, ccacb, ccacz, ccahhhc, c
+cahhhhhh, ccahhha, ccahhhb, ccahhhz, ccaac, ccaahhh, ccaaa, ccaab, ccaaz, ccabc,
+ ccabhhh, ccaba, ccabb, ccabz, ccazc, ccazhhh, ccaza, ccazb, ccazz, ccbcc, ccbch
+hh, ccbca, ccbcb, ccbcz, ccbhhhc, ccbhhhhhh, ccbhhha, ccbhhhb, ccbhhhz, ccbac, c
+cbahhh, ccbaa, ccbab, ccbaz, ccbbc, ccbbhhh, ccbba, ccbbb, ccbbz, ccbzc, ccbzhhh
+, ccbza, ccbzb, ccbzz, cczcc, cczchhh, cczca, cczcb, cczcz, cczhhhc, cczhhhhhh, 
+cczhhha, cczhhhb, cczhhhz, cczac, cczahhh, cczaa, cczab, cczaz, cczbc, cczbhhh, 
+cczba, cczbb, cczbz, cczzc, cczzhhh, cczza, cczzb, cczzz, chhhccc, chhhcchhh, ch
+hhcca, chhhccb, chhhccz, chhhchhhc, chhhchhhhhh, chhhchhha, chhhchhhb, chhhchhhz
+, chhhcac, chhhcahhh, chhhcaa, chhhcab, chhhcaz, chhhcbc, chhhcbhhh, chhhcba, ch
+hhcbb, chhhcbz, chhhczc, chhhczhhh, chhhcza, chhhczb, chhhczz, chhhhhhcc, chhhhh
+hchhh, chhhhhhca, chhhhhhcb, chhhhhhcz, chhhhhhhhhc, chhhhhhhhhhhh, chhhhhhhhha,
+ chhhhhhhhhb, chhhhhhhhhz, chhhhhhac, chhhhhhahhh, chhhhhhaa, chhhhhhab, chhhhhh
+az, chhhhhhbc, chhhhhhbhhh, chhhhhhba, chhhhhhbb, chhhhhhbz, chhhhhhzc, chhhhhhz
+hhh, chhhhhhza, chhhhhhzb, chhhhhhzz, chhhacc, chhhachhh, chhhaca, chhhacb, chhh
+acz, chhhahhhc, chhhahhhhhh, chhhahhha, chhhahhhb, chhhahhhz, chhhaac, chhhaahhh
+, chhhaaa, chhhaab, chhhaaz, chhhabc, chhhabhhh, chhhaba, chhhabb, chhhabz, chhh
+azc, chhhazhhh, chhhaza, chhhazb, chhhazz, chhhbcc, chhhbchhh, chhhbca, chhhbcb,
+ chhhbcz, chhhbhhhc, chhhbhhhhhh, chhhbhhha, chhhbhhhb, chhhbhhhz, chhhbac, chhh
+bahhh, chhhbaa, chhhbab, chhhbaz, chhhbbc, chhhbbhhh, chhhbba, chhhbbb, chhhbbz,
+ chhhbzc, chhhbzhhh, chhhbza, chhhbzb, chhhbzz, chhhzcc, chhhzchhh, chhhzca, chh
+hzcb, chhhzcz, chhhzhhhc, chhhzhhhhhh, chhhzhhha, chhhzhhhb, chhhzhhhz, chhhzac,
+ chhhzahhh, chhhzaa, chhhzab, chhhzaz, chhhzbc, chhhzbhhh, chhhzba, chhhzbb, chh
+hzbz, chhhzzc, chhhzzhhh, chhhzza, chhhzzb, chhhzzz, caccc, cacchhh, cacca, cacc
+b, caccz, cachhhc, cachhhhhh, cachhha, cachhhb, cachhhz, cacac, cacahhh, cacaa, 
+cacab, cacaz, cacbc, cacbhhh, cacba, cacbb, cacbz, caczc, caczhhh, cacza, caczb,
+ caczz, cahhhcc, cahhhchhh, cahhhca, cahhhcb, cahhhcz, cahhhhhhc, cahhhhhhhhh, c
+ahhhhhha, cahhhhhhb, cahhhhhhz, cahhhac, cahhhahhh, cahhhaa, cahhhab, cahhhaz, c
+ahhhbc, cahhhbhhh, cahhhba, cahhhbb, cahhhbz, cahhhzc, cahhhzhhh, cahhhza, cahhh
+zb, cahhhzz, caacc, caachhh, caaca, caacb, caacz, caahhhc, caahhhhhh, caahhha, c
+aahhhb, caahhhz, caaac, caaahhh, caaaa, caaab, caaaz, caabc, caabhhh, caaba, caa
+bb, caabz, caazc, caazhhh, caaza, caazb, caazz, cabcc, cabchhh, cabca, cabcb, ca
+bcz, cabhhhc, cabhhhhhh, cabhhha, cabhhhb, cabhhhz, cabac, cabahhh, cabaa, cabab
+, cabaz, cabbc, cabbhhh, cabba, cabbb, cabbz, cabzc, cabzhhh, cabza, cabzb, cabz
+z, cazcc, cazchhh, cazca, cazcb, cazcz, cazhhhc, cazhhhhhh, cazhhha, cazhhhb, ca
+zhhhz, cazac, cazahhh, cazaa, cazab, cazaz, cazbc, cazbhhh, cazba, cazbb, cazbz,
+ cazzc, cazzhhh, cazza, cazzb, cazzz, cbccc, cbcchhh, cbcca, cbccb, cbccz, cbchh
+hc, cbchhhhhh, cbchhha, cbchhhb, cbchhhz, cbcac, cbcahhh, cbcaa, cbcab, cbcaz, c
+bcbc, cbcbhhh, cbcba, cbcbb, cbcbz, cbczc, cbczhhh, cbcza, cbczb, cbczz, cbhhhcc
+, cbhhhchhh, cbhhhca, cbhhhcb, cbhhhcz, cbhhhhhhc, cbhhhhhhhhh, cbhhhhhha, cbhhh
+hhhb, cbhhhhhhz, cbhhhac, cbhhhahhh, cbhhhaa, cbhhhab, cbhhhaz, cbhhhbc, cbhhhbh
+hh, cbhhhba, cbhhhbb, cbhhhbz, cbhhhzc, cbhhhzhhh, cbhhhza, cbhhhzb, cbhhhzz, cb
+acc, cbachhh, cbaca, cbacb, cbacz, cbahhhc, cbahhhhhh, cbahhha, cbahhhb, cbahhhz
+, cbaac, cbaahhh, cbaaa, cbaab, cbaaz, cbabc, cbabhhh, cbaba, cbabb, cbabz, cbaz
+c, cbazhhh, cbaza, cbazb, cbazz, cbbcc, cbbchhh, cbbca, cbbcb, cbbcz, cbbhhhc, c
+bbhhhhhh, cbbhhha, cbbhhhb, cbbhhhz, cbbac, cbbahhh, cbbaa, cbbab, cbbaz, cbbbc,
+ cbbbhhh, cbbba, cbbbb, cbbbz, cbbzc, cbbzhhh, cbbza, cbbzb, cbbzz, cbzcc, cbzch
+hh, cbzca, cbzcb, cbzcz, cbzhhhc, cbzhhhhhh, cbzhhha, cbzhhhb, cbzhhhz, cbzac, c
+bzahhh, cbzaa, cbzab, cbzaz, cbzbc, cbzbhhh, cbzba, cbzbb, cbzbz, cbzzc, cbzzhhh
+, cbzza, cbzzb, cbzzz, czccc, czcchhh, czcca, czccb, czccz, czchhhc, czchhhhhh, 
+czchhha, czchhhb, czchhhz, czcac, czcahhh, czcaa, czcab, czcaz, czcbc, czcbhhh, 
+czcba, czcbb, czcbz, czczc, czczhhh, czcza, czczb, czczz, czhhhcc, czhhhchhh, cz
+hhhca, czhhhcb, czhhhcz, czhhhhhhc, czhhhhhhhhh, czhhhhhha, czhhhhhhb, czhhhhhhz
+, czhhhac, czhhhahhh, czhhhaa, czhhhab, czhhhaz, czhhhbc, czhhhbhhh, czhhhba, cz
+hhhbb, czhhhbz, czhhhzc, czhhhzhhh, czhhhza, czhhhzb, czhhhzz, czacc, czachhh, c
+zaca, czacb, czacz, czahhhc, czahhhhhh, czahhha, czahhhb, czahhhz, czaac, czaahh
+h, czaaa, czaab, czaaz, czabc, czabhhh, czaba, czabb, czabz, czazc, czazhhh, cza
+za, czazb, czazz, czbcc, czbchhh, czbca, czbcb, czbcz, czbhhhc, czbhhhhhh, czbhh
+ha, czbhhhb, czbhhhz, czbac, czbahhh, czbaa, czbab, czbaz, czbbc, czbbhhh, czbba
+, czbbb, czbbz, czbzc, czbzhhh, czbza, czbzb, czbzz, czzcc, czzchhh, czzca, czzc
+b, czzcz, czzhhhc, czzhhhhhh, czzhhha, czzhhhb, czzhhhz, czzac, czzahhh, czzaa, 
+czzab, czzaz, czzbc, czzbhhh, czzba, czzbb, czzbz, czzzc, czzzhhh, czzza, czzzb,
+ czzzz, hhhcccc, hhhccchhh, hhhccca, hhhcccb, hhhcccz, hhhcchhhc, hhhcchhhhhh, h
+hhcchhha, hhhcchhhb, hhhcchhhz, hhhccac, hhhccahhh, hhhccaa, hhhccab, hhhccaz, h
+hhccbc, hhhccbhhh, hhhccba, hhhccbb, hhhccbz, hhhcczc, hhhcczhhh, hhhccza, hhhcc
+zb, hhhcczz, hhhchhhcc, hhhchhhchhh, hhhchhhca, hhhchhhcb, hhhchhhcz, hhhchhhhhh
+c, hhhchhhhhhhhh, hhhchhhhhha, hhhchhhhhhb, hhhchhhhhhz, hhhchhhac, hhhchhhahhh,
+ hhhchhhaa, hhhchhhab, hhhchhhaz, hhhchhhbc, hhhchhhbhhh, hhhchhhba, hhhchhhbb, 
+hhhchhhbz, hhhchhhzc, hhhchhhzhhh, hhhchhhza, hhhchhhzb, hhhchhhzz, hhhcacc, hhh
+cachhh, hhhcaca, hhhcacb, hhhcacz, hhhcahhhc, hhhcahhhhhh, hhhcahhha, hhhcahhhb,
+ hhhcahhhz, hhhcaac, hhhcaahhh, hhhcaaa, hhhcaab, hhhcaaz, hhhcabc, hhhcabhhh, h
+hhcaba, hhhcabb, hhhcabz, hhhcazc, hhhcazhhh, hhhcaza, hhhcazb, hhhcazz, hhhcbcc
+, hhhcbchhh, hhhcbca, hhhcbcb, hhhcbcz, hhhcbhhhc, hhhcbhhhhhh, hhhcbhhha, hhhcb
+hhhb, hhhcbhhhz, hhhcbac, hhhcbahhh, hhhcbaa, hhhcbab, hhhcbaz, hhhcbbc, hhhcbbh
+hh, hhhcbba, hhhcbbb, hhhcbbz, hhhcbzc, hhhcbzhhh, hhhcbza, hhhcbzb, hhhcbzz, hh
+hczcc, hhhczchhh, hhhczca, hhhczcb, hhhczcz, hhhczhhhc, hhhczhhhhhh, hhhczhhha, 
+hhhczhhhb, hhhczhhhz, hhhczac, hhhczahhh, hhhczaa, hhhczab, hhhczaz, hhhczbc, hh
+hczbhhh, hhhczba, hhhczbb, hhhczbz, hhhczzc, hhhczzhhh, hhhczza, hhhczzb, hhhczz
+z, hhhhhhccc, hhhhhhcchhh, hhhhhhcca, hhhhhhccb, hhhhhhccz, hhhhhhchhhc, hhhhhhc
+hhhhhh, hhhhhhchhha, hhhhhhchhhb, hhhhhhchhhz, hhhhhhcac, hhhhhhcahhh, hhhhhhcaa
+, hhhhhhcab, hhhhhhcaz, hhhhhhcbc, hhhhhhcbhhh, hhhhhhcba, hhhhhhcbb, hhhhhhcbz,
+ hhhhhhczc, hhhhhhczhhh, hhhhhhcza, hhhhhhczb, hhhhhhczz, hhhhhhhhhcc, hhhhhhhhh
+chhh, hhhhhhhhhca, hhhhhhhhhcb, hhhhhhhhhcz, hhhhhhhhhhhhc, hhhhhhhhhhhhhhh, hhh
+hhhhhhhhha, hhhhhhhhhhhhb, hhhhhhhhhhhhz, hhhhhhhhhac, hhhhhhhhhahhh, hhhhhhhhha
+a, hhhhhhhhhab, hhhhhhhhhaz, hhhhhhhhhbc, hhhhhhhhhbhhh, hhhhhhhhhba, hhhhhhhhhb
+b, hhhhhhhhhbz, hhhhhhhhhzc, hhhhhhhhhzhhh, hhhhhhhhhza, hhhhhhhhhzb, hhhhhhhhhz
+z, hhhhhhacc, hhhhhhachhh, hhhhhhaca, hhhhhhacb, hhhhhhacz, hhhhhhahhhc, hhhhhha
+hhhhhh, hhhhhhahhha, hhhhhhahhhb, hhhhhhahhhz, hhhhhhaac, hhhhhhaahhh, hhhhhhaaa
+, hhhhhhaab, hhhhhhaaz, hhhhhhabc, hhhhhhabhhh, hhhhhhaba, hhhhhhabb, hhhhhhabz,
+ hhhhhhazc, hhhhhhazhhh, hhhhhhaza, hhhhhhazb, hhhhhhazz, hhhhhhbcc, hhhhhhbchhh
+, hhhhhhbca, hhhhhhbcb, hhhhhhbcz, hhhhhhbhhhc, hhhhhhbhhhhhh, hhhhhhbhhha, hhhh
+hhbhhhb, hhhhhhbhhhz, hhhhhhbac, hhhhhhbahhh, hhhhhhbaa, hhhhhhbab, hhhhhhbaz, h
+hhhhhbbc, hhhhhhbbhhh, hhhhhhbba, hhhhhhbbb, hhhhhhbbz, hhhhhhbzc, hhhhhhbzhhh, 
+hhhhhhbza, hhhhhhbzb, hhhhhhbzz, hhhhhhzcc, hhhhhhzchhh, hhhhhhzca, hhhhhhzcb, h
+hhhhhzcz, hhhhhhzhhhc, hhhhhhzhhhhhh, hhhhhhzhhha, hhhhhhzhhhb, hhhhhhzhhhz, hhh
+hhhzac, hhhhhhzahhh, hhhhhhzaa, hhhhhhzab, hhhhhhzaz, hhhhhhzbc, hhhhhhzbhhh, hh
+hhhhzba, hhhhhhzbb, hhhhhhzbz, hhhhhhzzc, hhhhhhzzhhh, hhhhhhzza, hhhhhhzzb, hhh
+hhhzzz, hhhaccc, hhhacchhh, hhhacca, hhhaccb, hhhaccz, hhhachhhc, hhhachhhhhh, h
+hhachhha, hhhachhhb, hhhachhhz, hhhacac, hhhacahhh, hhhacaa, hhhacab, hhhacaz, h
+hhacbc, hhhacbhhh, hhhacba, hhhacbb, hhhacbz, hhhaczc, hhhaczhhh, hhhacza, hhhac
+zb, hhhaczz, hhhahhhcc, hhhahhhchhh, hhhahhhca, hhhahhhcb, hhhahhhcz, hhhahhhhhh
+c, hhhahhhhhhhhh, hhhahhhhhha, hhhahhhhhhb, hhhahhhhhhz, hhhahhhac, hhhahhhahhh,
+ hhhahhhaa, hhhahhhab, hhhahhhaz, hhhahhhbc, hhhahhhbhhh, hhhahhhba, hhhahhhbb, 
+hhhahhhbz, hhhahhhzc, hhhahhhzhhh, hhhahhhza, hhhahhhzb, hhhahhhzz, hhhaacc, hhh
+aachhh, hhhaaca, hhhaacb, hhhaacz, hhhaahhhc, hhhaahhhhhh, hhhaahhha, hhhaahhhb,
+ hhhaahhhz, hhhaaac, hhhaaahhh, hhhaaaa, hhhaaab, hhhaaaz, hhhaabc, hhhaabhhh, h
+hhaaba, hhhaabb, hhhaabz, hhhaazc, hhhaazhhh, hhhaaza, hhhaazb, hhhaazz, hhhabcc
+, hhhabchhh, hhhabca, hhhabcb, hhhabcz, hhhabhhhc, hhhabhhhhhh, hhhabhhha, hhhab
+hhhb, hhhabhhhz, hhhabac, hhhabahhh, hhhabaa, hhhabab, hhhabaz, hhhabbc, hhhabbh
+hh, hhhabba, hhhabbb, hhhabbz, hhhabzc, hhhabzhhh, hhhabza, hhhabzb, hhhabzz, hh
+hazcc, hhhazchhh, hhhazca, hhhazcb, hhhazcz, hhhazhhhc, hhhazhhhhhh, hhhazhhha, 
+hhhazhhhb, hhhazhhhz, hhhazac, hhhazahhh, hhhazaa, hhhazab, hhhazaz, hhhazbc, hh
+hazbhhh, hhhazba, hhhazbb, hhhazbz, hhhazzc, hhhazzhhh, hhhazza, hhhazzb, hhhazz
+z, hhhbccc, hhhbcchhh, hhhbcca, hhhbccb, hhhbccz, hhhbchhhc, hhhbchhhhhh, hhhbch
+hha, hhhbchhhb, hhhbchhhz, hhhbcac, hhhbcahhh, hhhbcaa, hhhbcab, hhhbcaz, hhhbcb
+c, hhhbcbhhh, hhhbcba, hhhbcbb, hhhbcbz, hhhbczc, hhhbczhhh, hhhbcza, hhhbczb, h
+hhbczz, hhhbhhhcc, hhhbhhhchhh, hhhbhhhca, hhhbhhhcb, hhhbhhhcz, hhhbhhhhhhc, hh
+hbhhhhhhhhh, hhhbhhhhhha, hhhbhhhhhhb, hhhbhhhhhhz, hhhbhhhac, hhhbhhhahhh, hhhb
+hhhaa, hhhbhhhab, hhhbhhhaz, hhhbhhhbc, hhhbhhhbhhh, hhhbhhhba, hhhbhhhbb, hhhbh
+hhbz, hhhbhhhzc, hhhbhhhzhhh, hhhbhhhza, hhhbhhhzb, hhhbhhhzz, hhhbacc, hhhbachh
+h, hhhbaca, hhhbacb, hhhbacz, hhhbahhhc, hhhbahhhhhh, hhhbahhha, hhhbahhhb, hhhb
+ahhhz, hhhbaac, hhhbaahhh, hhhbaaa, hhhbaab, hhhbaaz, hhhbabc, hhhbabhhh, hhhbab
+a, hhhbabb, hhhbabz, hhhbazc, hhhbazhhh, hhhbaza, hhhbazb, hhhbazz, hhhbbcc, hhh
+bbchhh, hhhbbca, hhhbbcb, hhhbbcz, hhhbbhhhc, hhhbbhhhhhh, hhhbbhhha, hhhbbhhhb,
+ hhhbbhhhz, hhhbbac, hhhbbahhh, hhhbbaa, hhhbbab, hhhbbaz, hhhbbbc, hhhbbbhhh, h
+hhbbba, hhhbbbb, hhhbbbz, hhhbbzc, hhhbbzhhh, hhhbbza, hhhbbzb, hhhbbzz, hhhbzcc
+, hhhbzchhh, hhhbzca, hhhbzcb, hhhbzcz, hhhbzhhhc, hhhbzhhhhhh, hhhbzhhha, hhhbz
+hhhb, hhhbzhhhz, hhhbzac, hhhbzahhh, hhhbzaa, hhhbzab, hhhbzaz, hhhbzbc, hhhbzbh
+hh, hhhbzba, hhhbzbb, hhhbzbz, hhhbzzc, hhhbzzhhh, hhhbzza, hhhbzzb, hhhbzzz, hh
+hzccc, hhhzcchhh, hhhzcca, hhhzccb, hhhzccz, hhhzchhhc, hhhzchhhhhh, hhhzchhha, 
+hhhzchhhb, hhhzchhhz, hhhzcac, hhhzcahhh, hhhzcaa, hhhzcab, hhhzcaz, hhhzcbc, hh
+hzcbhhh, hhhzcba, hhhzcbb, hhhzcbz, hhhzczc, hhhzczhhh, hhhzcza, hhhzczb, hhhzcz
+z, hhhzhhhcc, hhhzhhhchhh, hhhzhhhca, hhhzhhhcb, hhhzhhhcz, hhhzhhhhhhc, hhhzhhh
+hhhhhh, hhhzhhhhhha, hhhzhhhhhhb, hhhzhhhhhhz, hhhzhhhac, hhhzhhhahhh, hhhzhhhaa
+, hhhzhhhab, hhhzhhhaz, hhhzhhhbc, hhhzhhhbhhh, hhhzhhhba, hhhzhhhbb, hhhzhhhbz,
+ hhhzhhhzc, hhhzhhhzhhh, hhhzhhhza, hhhzhhhzb, hhhzhhhzz, hhhzacc, hhhzachhh, hh
+hzaca, hhhzacb, hhhzacz, hhhzahhhc, hhhzahhhhhh, hhhzahhha, hhhzahhhb, hhhzahhhz
+, hhhzaac, hhhzaahhh, hhhzaaa, hhhzaab, hhhzaaz, hhhzabc, hhhzabhhh, hhhzaba, hh
+hzabb, hhhzabz, hhhzazc, hhhzazhhh, hhhzaza, hhhzazb, hhhzazz, hhhzbcc, hhhzbchh
+h, hhhzbca, hhhzbcb, hhhzbcz, hhhzbhhhc, hhhzbhhhhhh, hhhzbhhha, hhhzbhhhb, hhhz
+bhhhz, hhhzbac, hhhzbahhh, hhhzbaa, hhhzbab, hhhzbaz, hhhzbbc, hhhzbbhhh, hhhzbb
+a, hhhzbbb, hhhzbbz, hhhzbzc, hhhzbzhhh, hhhzbza, hhhzbzb, hhhzbzz, hhhzzcc, hhh
+zzchhh, hhhzzca, hhhzzcb, hhhzzcz, hhhzzhhhc, hhhzzhhhhhh, hhhzzhhha, hhhzzhhhb,
+ hhhzzhhhz, hhhzzac, hhhzzahhh, hhhzzaa, hhhzzab, hhhzzaz, hhhzzbc, hhhzzbhhh, h
+hhzzba, hhhzzbb, hhhzzbz, hhhzzzc, hhhzzzhhh, hhhzzza, hhhzzzb, hhhzzzz, acccc, 
+accchhh, accca, acccb, acccz, acchhhc, acchhhhhh, acchhha, acchhhb, acchhhz, acc
+ac, accahhh, accaa, accab, accaz, accbc, accbhhh, accba, accbb, accbz, acczc, ac
+czhhh, accza, acczb, acczz, achhhcc, achhhchhh, achhhca, achhhcb, achhhcz, achhh
+hhhc, achhhhhhhhh, achhhhhha, achhhhhhb, achhhhhhz, achhhac, achhhahhh, achhhaa,
+ achhhab, achhhaz, achhhbc, achhhbhhh, achhhba, achhhbb, achhhbz, achhhzc, achhh
+zhhh, achhhza, achhhzb, achhhzz, acacc, acachhh, acaca, acacb, acacz, acahhhc, a
+cahhhhhh, acahhha, acahhhb, acahhhz, acaac, acaahhh, acaaa, acaab, acaaz, acabc,
+ acabhhh, acaba, acabb, acabz, acazc, acazhhh, acaza, acazb, acazz, acbcc, acbch
+hh, acbca, acbcb, acbcz, acbhhhc, acbhhhhhh, acbhhha, acbhhhb, acbhhhz, acbac, a
+cbahhh, acbaa, acbab, acbaz, acbbc, acbbhhh, acbba, acbbb, acbbz, acbzc, acbzhhh
+, acbza, acbzb, acbzz, aczcc, aczchhh, aczca, aczcb, aczcz, aczhhhc, aczhhhhhh, 
+aczhhha, aczhhhb, aczhhhz, aczac, aczahhh, aczaa, aczab, aczaz, aczbc, aczbhhh, 
+aczba, aczbb, aczbz, aczzc, aczzhhh, aczza, aczzb, aczzz, ahhhccc, ahhhcchhh, ah
+hhcca, ahhhccb, ahhhccz, ahhhchhhc, ahhhchhhhhh, ahhhchhha, ahhhchhhb, ahhhchhhz
+, ahhhcac, ahhhcahhh, ahhhcaa, ahhhcab, ahhhcaz, ahhhcbc, ahhhcbhhh, ahhhcba, ah
+hhcbb, ahhhcbz, ahhhczc, ahhhczhhh, ahhhcza, ahhhczb, ahhhczz, ahhhhhhcc, ahhhhh
+hchhh, ahhhhhhca, ahhhhhhcb, ahhhhhhcz, ahhhhhhhhhc, ahhhhhhhhhhhh, ahhhhhhhhha,
+ ahhhhhhhhhb, ahhhhhhhhhz, ahhhhhhac, ahhhhhhahhh, ahhhhhhaa, ahhhhhhab, ahhhhhh
+az, ahhhhhhbc, ahhhhhhbhhh, ahhhhhhba, ahhhhhhbb, ahhhhhhbz, ahhhhhhzc, ahhhhhhz
+hhh, ahhhhhhza, ahhhhhhzb, ahhhhhhzz, ahhhacc, ahhhachhh, ahhhaca, ahhhacb, ahhh
+acz, ahhhahhhc, ahhhahhhhhh, ahhhahhha, ahhhahhhb, ahhhahhhz, ahhhaac, ahhhaahhh
+, ahhhaaa, ahhhaab, ahhhaaz, ahhhabc, ahhhabhhh, ahhhaba, ahhhabb, ahhhabz, ahhh
+azc, ahhhazhhh, ahhhaza, ahhhazb, ahhhazz, ahhhbcc, ahhhbchhh, ahhhbca, ahhhbcb,
+ ahhhbcz, ahhhbhhhc, ahhhbhhhhhh, ahhhbhhha, ahhhbhhhb, ahhhbhhhz, ahhhbac, ahhh
+bahhh, ahhhbaa, ahhhbab, ahhhbaz, ahhhbbc, ahhhbbhhh, ahhhbba, ahhhbbb, ahhhbbz,
+ ahhhbzc, ahhhbzhhh, ahhhbza, ahhhbzb, ahhhbzz, ahhhzcc, ahhhzchhh, ahhhzca, ahh
+hzcb, ahhhzcz, ahhhzhhhc, ahhhzhhhhhh, ahhhzhhha, ahhhzhhhb, ahhhzhhhz, ahhhzac,
+ ahhhzahhh, ahhhzaa, ahhhzab, ahhhzaz, ahhhzbc, ahhhzbhhh, ahhhzba, ahhhzbb, ahh
+hzbz, ahhhzzc, ahhhzzhhh, ahhhzza, ahhhzzb, ahhhzzz, aaccc, aacchhh, aacca, aacc
+b, aaccz, aachhhc, aachhhhhh, aachhha, aachhhb, aachhhz, aacac, aacahhh, aacaa, 
+aacab, aacaz, aacbc, aacbhhh, aacba, aacbb, aacbz, aaczc, aaczhhh, aacza, aaczb,
+ aaczz, aahhhcc, aahhhchhh, aahhhca, aahhhcb, aahhhcz, aahhhhhhc, aahhhhhhhhh, a
+ahhhhhha, aahhhhhhb, aahhhhhhz, aahhhac, aahhhahhh, aahhhaa, aahhhab, aahhhaz, a
+ahhhbc, aahhhbhhh, aahhhba, aahhhbb, aahhhbz, aahhhzc, aahhhzhhh, aahhhza, aahhh
+zb, aahhhzz, aaacc, aaachhh, aaaca, aaacb, aaacz, aaahhhc, aaahhhhhh, aaahhha, a
+aahhhb, aaahhhz, aaaac, aaaahhh, aaaaa, aaaab, aaaaz, aaabc, aaabhhh, aaaba, aaa
+bb, aaabz, aaazc, aaazhhh, aaaza, aaazb, aaazz, aabcc, aabchhh, aabca, aabcb, aa
+bcz, aabhhhc, aabhhhhhh, aabhhha, aabhhhb, aabhhhz, aabac, aabahhh, aabaa, aabab
+, aabaz, aabbc, aabbhhh, aabba, aabbb, aabbz, aabzc, aabzhhh, aabza, aabzb, aabz
+z, aazcc, aazchhh, aazca, aazcb, aazcz, aazhhhc, aazhhhhhh, aazhhha, aazhhhb, aa
+zhhhz, aazac, aazahhh, aazaa, aazab, aazaz, aazbc, aazbhhh, aazba, aazbb, aazbz,
+ aazzc, aazzhhh, aazza, aazzb, aazzz, abccc, abcchhh, abcca, abccb, abccz, abchh
+hc, abchhhhhh, abchhha, abchhhb, abchhhz, abcac, abcahhh, abcaa, abcab, abcaz, a
+bcbc, abcbhhh, abcba, abcbb, abcbz, abczc, abczhhh, abcza, abczb, abczz, abhhhcc
+, abhhhchhh, abhhhca, abhhhcb, abhhhcz, abhhhhhhc, abhhhhhhhhh, abhhhhhha, abhhh
+hhhb, abhhhhhhz, abhhhac, abhhhahhh, abhhhaa, abhhhab, abhhhaz, abhhhbc, abhhhbh
+hh, abhhhba, abhhhbb, abhhhbz, abhhhzc, abhhhzhhh, abhhhza, abhhhzb, abhhhzz, ab
+acc, abachhh, abaca, abacb, abacz, abahhhc, abahhhhhh, abahhha, abahhhb, abahhhz
+, abaac, abaahhh, abaaa, abaab, abaaz, ababc, ababhhh, ababa, ababb, ababz, abaz
+c, abazhhh, abaza, abazb, abazz, abbcc, abbchhh, abbca, abbcb, abbcz, abbhhhc, a
+bbhhhhhh, abbhhha, abbhhhb, abbhhhz, abbac, abbahhh, abbaa, abbab, abbaz, abbbc,
+ abbbhhh, abbba, abbbb, abbbz, abbzc, abbzhhh, abbza, abbzb, abbzz, abzcc, abzch
+hh, abzca, abzcb, abzcz, abzhhhc, abzhhhhhh, abzhhha, abzhhhb, abzhhhz, abzac, a
+bzahhh, abzaa, abzab, abzaz, abzbc, abzbhhh, abzba, abzbb, abzbz, abzzc, abzzhhh
+, abzza, abzzb, abzzz, azccc, azcchhh, azcca, azccb, azccz, azchhhc, azchhhhhh, 
+azchhha, azchhhb, azchhhz, azcac, azcahhh, azcaa, azcab, azcaz, azcbc, azcbhhh, 
+azcba, azcbb, azcbz, azczc, azczhhh, azcza, azczb, azczz, azhhhcc, azhhhchhh, az
+hhhca, azhhhcb, azhhhcz, azhhhhhhc, azhhhhhhhhh, azhhhhhha, azhhhhhhb, azhhhhhhz
+, azhhhac, azhhhahhh, azhhhaa, azhhhab, azhhhaz, azhhhbc, azhhhbhhh, azhhhba, az
+hhhbb, azhhhbz, azhhhzc, azhhhzhhh, azhhhza, azhhhzb, azhhhzz, azacc, azachhh, a
+zaca, azacb, azacz, azahhhc, azahhhhhh, azahhha, azahhhb, azahhhz, azaac, azaahh
+h, azaaa, azaab, azaaz, azabc, azabhhh, azaba, azabb, azabz, azazc, azazhhh, aza
+za, azazb, azazz, azbcc, azbchhh, azbca, azbcb, azbcz, azbhhhc, azbhhhhhh, azbhh
+ha, azbhhhb, azbhhhz, azbac, azbahhh, azbaa, azbab, azbaz, azbbc, azbbhhh, azbba
+, azbbb, azbbz, azbzc, azbzhhh, azbza, azbzb, azbzz, azzcc, azzchhh, azzca, azzc
+b, azzcz, azzhhhc, azzhhhhhh, azzhhha, azzhhhb, azzhhhz, azzac, azzahhh, azzaa, 
+azzab, azzaz, azzbc, azzbhhh, azzba, azzbb, azzbz, azzzc, azzzhhh, azzza, azzzb,
+ azzzz, bcccc, bccchhh, bccca, bcccb, bcccz, bcchhhc, bcchhhhhh, bcchhha, bcchhh
+b, bcchhhz, bccac, bccahhh, bccaa, bccab, bccaz, bccbc, bccbhhh, bccba, bccbb, b
+ccbz, bcczc, bcczhhh, bccza, bcczb, bcczz, bchhhcc, bchhhchhh, bchhhca, bchhhcb,
+ bchhhcz, bchhhhhhc, bchhhhhhhhh, bchhhhhha, bchhhhhhb, bchhhhhhz, bchhhac, bchh
+hahhh, bchhhaa, bchhhab, bchhhaz, bchhhbc, bchhhbhhh, bchhhba, bchhhbb, bchhhbz,
+ bchhhzc, bchhhzhhh, bchhhza, bchhhzb, bchhhzz, bcacc, bcachhh, bcaca, bcacb, bc
+acz, bcahhhc, bcahhhhhh, bcahhha, bcahhhb, bcahhhz, bcaac, bcaahhh, bcaaa, bcaab
+, bcaaz, bcabc, bcabhhh, bcaba, bcabb, bcabz, bcazc, bcazhhh, bcaza, bcazb, bcaz
+z, bcbcc, bcbchhh, bcbca, bcbcb, bcbcz, bcbhhhc, bcbhhhhhh, bcbhhha, bcbhhhb, bc
+bhhhz, bcbac, bcbahhh, bcbaa, bcbab, bcbaz, bcbbc, bcbbhhh, bcbba, bcbbb, bcbbz,
+ bcbzc, bcbzhhh, bcbza, bcbzb, bcbzz, bczcc, bczchhh, bczca, bczcb, bczcz, bczhh
+hc, bczhhhhhh, bczhhha, bczhhhb, bczhhhz, bczac, bczahhh, bczaa, bczab, bczaz, b
+czbc, bczbhhh, bczba, bczbb, bczbz, bczzc, bczzhhh, bczza, bczzb, bczzz, bhhhccc
+, bhhhcchhh, bhhhcca, bhhhccb, bhhhccz, bhhhchhhc, bhhhchhhhhh, bhhhchhha, bhhhc
+hhhb, bhhhchhhz, bhhhcac, bhhhcahhh, bhhhcaa, bhhhcab, bhhhcaz, bhhhcbc, bhhhcbh
+hh, bhhhcba, bhhhcbb, bhhhcbz, bhhhczc, bhhhczhhh, bhhhcza, bhhhczb, bhhhczz, bh
+hhhhhcc, bhhhhhhchhh, bhhhhhhca, bhhhhhhcb, bhhhhhhcz, bhhhhhhhhhc, bhhhhhhhhhhh
+h, bhhhhhhhhha, bhhhhhhhhhb, bhhhhhhhhhz, bhhhhhhac, bhhhhhhahhh, bhhhhhhaa, bhh
+hhhhab, bhhhhhhaz, bhhhhhhbc, bhhhhhhbhhh, bhhhhhhba, bhhhhhhbb, bhhhhhhbz, bhhh
+hhhzc, bhhhhhhzhhh, bhhhhhhza, bhhhhhhzb, bhhhhhhzz, bhhhacc, bhhhachhh, bhhhaca
+, bhhhacb, bhhhacz, bhhhahhhc, bhhhahhhhhh, bhhhahhha, bhhhahhhb, bhhhahhhz, bhh
+haac, bhhhaahhh, bhhhaaa, bhhhaab, bhhhaaz, bhhhabc, bhhhabhhh, bhhhaba, bhhhabb
+, bhhhabz, bhhhazc, bhhhazhhh, bhhhaza, bhhhazb, bhhhazz, bhhhbcc, bhhhbchhh, bh
+hhbca, bhhhbcb, bhhhbcz, bhhhbhhhc, bhhhbhhhhhh, bhhhbhhha, bhhhbhhhb, bhhhbhhhz
+, bhhhbac, bhhhbahhh, bhhhbaa, bhhhbab, bhhhbaz, bhhhbbc, bhhhbbhhh, bhhhbba, bh
+hhbbb, bhhhbbz, bhhhbzc, bhhhbzhhh, bhhhbza, bhhhbzb, bhhhbzz, bhhhzcc, bhhhzchh
+h, bhhhzca, bhhhzcb, bhhhzcz, bhhhzhhhc, bhhhzhhhhhh, bhhhzhhha, bhhhzhhhb, bhhh
+zhhhz, bhhhzac, bhhhzahhh, bhhhzaa, bhhhzab, bhhhzaz, bhhhzbc, bhhhzbhhh, bhhhzb
+a, bhhhzbb, bhhhzbz, bhhhzzc, bhhhzzhhh, bhhhzza, bhhhzzb, bhhhzzz, baccc, bacch
+hh, bacca, baccb, baccz, bachhhc, bachhhhhh, bachhha, bachhhb, bachhhz, bacac, b
+acahhh, bacaa, bacab, bacaz, bacbc, bacbhhh, bacba, bacbb, bacbz, baczc, baczhhh
+, bacza, baczb, baczz, bahhhcc, bahhhchhh, bahhhca, bahhhcb, bahhhcz, bahhhhhhc,
+ bahhhhhhhhh, bahhhhhha, bahhhhhhb, bahhhhhhz, bahhhac, bahhhahhh, bahhhaa, bahh
+hab, bahhhaz, bahhhbc, bahhhbhhh, bahhhba, bahhhbb, bahhhbz, bahhhzc, bahhhzhhh,
+ bahhhza, bahhhzb, bahhhzz, baacc, baachhh, baaca, baacb, baacz, baahhhc, baahhh
+hhh, baahhha, baahhhb, baahhhz, baaac, baaahhh, baaaa, baaab, baaaz, baabc, baab
+hhh, baaba, baabb, baabz, baazc, baazhhh, baaza, baazb, baazz, babcc, babchhh, b
+abca, babcb, babcz, babhhhc, babhhhhhh, babhhha, babhhhb, babhhhz, babac, babahh
+h, babaa, babab, babaz, babbc, babbhhh, babba, babbb, babbz, babzc, babzhhh, bab
+za, babzb, babzz, bazcc, bazchhh, bazca, bazcb, bazcz, bazhhhc, bazhhhhhh, bazhh
+ha, bazhhhb, bazhhhz, bazac, bazahhh, bazaa, bazab, bazaz, bazbc, bazbhhh, bazba
+, bazbb, bazbz, bazzc, bazzhhh, bazza, bazzb, bazzz, bbccc, bbcchhh, bbcca, bbcc
+b, bbccz, bbchhhc, bbchhhhhh, bbchhha, bbchhhb, bbchhhz, bbcac, bbcahhh, bbcaa, 
+bbcab, bbcaz, bbcbc, bbcbhhh, bbcba, bbcbb, bbcbz, bbczc, bbczhhh, bbcza, bbczb,
+ bbczz, bbhhhcc, bbhhhchhh, bbhhhca, bbhhhcb, bbhhhcz, bbhhhhhhc, bbhhhhhhhhh, b
+bhhhhhha, bbhhhhhhb, bbhhhhhhz, bbhhhac, bbhhhahhh, bbhhhaa, bbhhhab, bbhhhaz, b
+bhhhbc, bbhhhbhhh, bbhhhba, bbhhhbb, bbhhhbz, bbhhhzc, bbhhhzhhh, bbhhhza, bbhhh
+zb, bbhhhzz, bbacc, bbachhh, bbaca, bbacb, bbacz, bbahhhc, bbahhhhhh, bbahhha, b
+bahhhb, bbahhhz, bbaac, bbaahhh, bbaaa, bbaab, bbaaz, bbabc, bbabhhh, bbaba, bba
+bb, bbabz, bbazc, bbazhhh, bbaza, bbazb, bbazz, bbbcc, bbbchhh, bbbca, bbbcb, bb
+bcz, bbbhhhc, bbbhhhhhh, bbbhhha, bbbhhhb, bbbhhhz, bbbac, bbbahhh, bbbaa, bbbab
+, bbbaz, bbbbc, bbbbhhh, bbbba, bbbbb, bbbbz, bbbzc, bbbzhhh, bbbza, bbbzb, bbbz
+z, bbzcc, bbzchhh, bbzca, bbzcb, bbzcz, bbzhhhc, bbzhhhhhh, bbzhhha, bbzhhhb, bb
+zhhhz, bbzac, bbzahhh, bbzaa, bbzab, bbzaz, bbzbc, bbzbhhh, bbzba, bbzbb, bbzbz,
+ bbzzc, bbzzhhh, bbzza, bbzzb, bbzzz, bzccc, bzcchhh, bzcca, bzccb, bzccz, bzchh
+hc, bzchhhhhh, bzchhha, bzchhhb, bzchhhz, bzcac, bzcahhh, bzcaa, bzcab, bzcaz, b
+zcbc, bzcbhhh, bzcba, bzcbb, bzcbz, bzczc, bzczhhh, bzcza, bzczb, bzczz, bzhhhcc
+, bzhhhchhh, bzhhhca, bzhhhcb, bzhhhcz, bzhhhhhhc, bzhhhhhhhhh, bzhhhhhha, bzhhh
+hhhb, bzhhhhhhz, bzhhhac, bzhhhahhh, bzhhhaa, bzhhhab, bzhhhaz, bzhhhbc, bzhhhbh
+hh, bzhhhba, bzhhhbb, bzhhhbz, bzhhhzc, bzhhhzhhh, bzhhhza, bzhhhzb, bzhhhzz, bz
+acc, bzachhh, bzaca, bzacb, bzacz, bzahhhc, bzahhhhhh, bzahhha, bzahhhb, bzahhhz
+, bzaac, bzaahhh, bzaaa, bzaab, bzaaz, bzabc, bzabhhh, bzaba, bzabb, bzabz, bzaz
+c, bzazhhh, bzaza, bzazb, bzazz, bzbcc, bzbchhh, bzbca, bzbcb, bzbcz, bzbhhhc, b
+zbhhhhhh, bzbhhha, bzbhhhb, bzbhhhz, bzbac, bzbahhh, bzbaa, bzbab, bzbaz, bzbbc,
+ bzbbhhh, bzbba, bzbbb, bzbbz, bzbzc, bzbzhhh, bzbza, bzbzb, bzbzz, bzzcc, bzzch
+hh, bzzca, bzzcb, bzzcz, bzzhhhc, bzzhhhhhh, bzzhhha, bzzhhhb, bzzhhhz, bzzac, b
+zzahhh, bzzaa, bzzab, bzzaz, bzzbc, bzzbhhh, bzzba, bzzbb, bzzbz, bzzzc, bzzzhhh
+, bzzza, bzzzb, bzzzz, zcccc, zccchhh, zccca, zcccb, zcccz, zcchhhc, zcchhhhhh, 
+zcchhha, zcchhhb, zcchhhz, zccac, zccahhh, zccaa, zccab, zccaz, zccbc, zccbhhh, 
+zccba, zccbb, zccbz, zcczc, zcczhhh, zccza, zcczb, zcczz, zchhhcc, zchhhchhh, zc
+hhhca, zchhhcb, zchhhcz, zchhhhhhc, zchhhhhhhhh, zchhhhhha, zchhhhhhb, zchhhhhhz
+, zchhhac, zchhhahhh, zchhhaa, zchhhab, zchhhaz, zchhhbc, zchhhbhhh, zchhhba, zc
+hhhbb, zchhhbz, zchhhzc, zchhhzhhh, zchhhza, zchhhzb, zchhhzz, zcacc, zcachhh, z
+caca, zcacb, zcacz, zcahhhc, zcahhhhhh, zcahhha, zcahhhb, zcahhhz, zcaac, zcaahh
+h, zcaaa, zcaab, zcaaz, zcabc, zcabhhh, zcaba, zcabb, zcabz, zcazc, zcazhhh, zca
+za, zcazb, zcazz, zcbcc, zcbchhh, zcbca, zcbcb, zcbcz, zcbhhhc, zcbhhhhhh, zcbhh
+ha, zcbhhhb, zcbhhhz, zcbac, zcbahhh, zcbaa, zcbab, zcbaz, zcbbc, zcbbhhh, zcbba
+, zcbbb, zcbbz, zcbzc, zcbzhhh, zcbza, zcbzb, zcbzz, zczcc, zczchhh, zczca, zczc
+b, zczcz, zczhhhc, zczhhhhhh, zczhhha, zczhhhb, zczhhhz, zczac, zczahhh, zczaa, 
+zczab, zczaz, zczbc, zczbhhh, zczba, zczbb, zczbz, zczzc, zczzhhh, zczza, zczzb,
+ zczzz, zhhhccc, zhhhcchhh, zhhhcca, zhhhccb, zhhhccz, zhhhchhhc, zhhhchhhhhh, z
+hhhchhha, zhhhchhhb, zhhhchhhz, zhhhcac, zhhhcahhh, zhhhcaa, zhhhcab, zhhhcaz, z
+hhhcbc, zhhhcbhhh, zhhhcba, zhhhcbb, zhhhcbz, zhhhczc, zhhhczhhh, zhhhcza, zhhhc
+zb, zhhhczz, zhhhhhhcc, zhhhhhhchhh, zhhhhhhca, zhhhhhhcb, zhhhhhhcz, zhhhhhhhhh
+c, zhhhhhhhhhhhh, zhhhhhhhhha, zhhhhhhhhhb, zhhhhhhhhhz, zhhhhhhac, zhhhhhhahhh,
+ zhhhhhhaa, zhhhhhhab, zhhhhhhaz, zhhhhhhbc, zhhhhhhbhhh, zhhhhhhba, zhhhhhhbb, 
+zhhhhhhbz, zhhhhhhzc, zhhhhhhzhhh, zhhhhhhza, zhhhhhhzb, zhhhhhhzz, zhhhacc, zhh
+hachhh, zhhhaca, zhhhacb, zhhhacz, zhhhahhhc, zhhhahhhhhh, zhhhahhha, zhhhahhhb,
+ zhhhahhhz, zhhhaac, zhhhaahhh, zhhhaaa, zhhhaab, zhhhaaz, zhhhabc, zhhhabhhh, z
+hhhaba, zhhhabb, zhhhabz, zhhhazc, zhhhazhhh, zhhhaza, zhhhazb, zhhhazz, zhhhbcc
+, zhhhbchhh, zhhhbca, zhhhbcb, zhhhbcz, zhhhbhhhc, zhhhbhhhhhh, zhhhbhhha, zhhhb
+hhhb, zhhhbhhhz, zhhhbac, zhhhbahhh, zhhhbaa, zhhhbab, zhhhbaz, zhhhbbc, zhhhbbh
+hh, zhhhbba, zhhhbbb, zhhhbbz, zhhhbzc, zhhhbzhhh, zhhhbza, zhhhbzb, zhhhbzz, zh
+hhzcc, zhhhzchhh, zhhhzca, zhhhzcb, zhhhzcz, zhhhzhhhc, zhhhzhhhhhh, zhhhzhhha, 
+zhhhzhhhb, zhhhzhhhz, zhhhzac, zhhhzahhh, zhhhzaa, zhhhzab, zhhhzaz, zhhhzbc, zh
+hhzbhhh, zhhhzba, zhhhzbb, zhhhzbz, zhhhzzc, zhhhzzhhh, zhhhzza, zhhhzzb, zhhhzz
+z, zaccc, zacchhh, zacca, zaccb, zaccz, zachhhc, zachhhhhh, zachhha, zachhhb, za
+chhhz, zacac, zacahhh, zacaa, zacab, zacaz, zacbc, zacbhhh, zacba, zacbb, zacbz,
+ zaczc, zaczhhh, zacza, zaczb, zaczz, zahhhcc, zahhhchhh, zahhhca, zahhhcb, zahh
+hcz, zahhhhhhc, zahhhhhhhhh, zahhhhhha, zahhhhhhb, zahhhhhhz, zahhhac, zahhhahhh
+, zahhhaa, zahhhab, zahhhaz, zahhhbc, zahhhbhhh, zahhhba, zahhhbb, zahhhbz, zahh
+hzc, zahhhzhhh, zahhhza, zahhhzb, zahhhzz, zaacc, zaachhh, zaaca, zaacb, zaacz, 
+zaahhhc, zaahhhhhh, zaahhha, zaahhhb, zaahhhz, zaaac, zaaahhh, zaaaa, zaaab, zaa
+az, zaabc, zaabhhh, zaaba, zaabb, zaabz, zaazc, zaazhhh, zaaza, zaazb, zaazz, za
+bcc, zabchhh, zabca, zabcb, zabcz, zabhhhc, zabhhhhhh, zabhhha, zabhhhb, zabhhhz
+, zabac, zabahhh, zabaa, zabab, zabaz, zabbc, zabbhhh, zabba, zabbb, zabbz, zabz
+c, zabzhhh, zabza, zabzb, zabzz, zazcc, zazchhh, zazca, zazcb, zazcz, zazhhhc, z
+azhhhhhh, zazhhha, zazhhhb, zazhhhz, zazac, zazahhh, zazaa, zazab, zazaz, zazbc,
+ zazbhhh, zazba, zazbb, zazbz, zazzc, zazzhhh, zazza, zazzb, zazzz, zbccc, zbcch
+hh, zbcca, zbccb, zbccz, zbchhhc, zbchhhhhh, zbchhha, zbchhhb, zbchhhz, zbcac, z
+bcahhh, zbcaa, zbcab, zbcaz, zbcbc, zbcbhhh, zbcba, zbcbb, zbcbz, zbczc, zbczhhh
+, zbcza, zbczb, zbczz, zbhhhcc, zbhhhchhh, zbhhhca, zbhhhcb, zbhhhcz, zbhhhhhhc,
+ zbhhhhhhhhh, zbhhhhhha, zbhhhhhhb, zbhhhhhhz, zbhhhac, zbhhhahhh, zbhhhaa, zbhh
+hab, zbhhhaz, zbhhhbc, zbhhhbhhh, zbhhhba, zbhhhbb, zbhhhbz, zbhhhzc, zbhhhzhhh,
+ zbhhhza, zbhhhzb, zbhhhzz, zbacc, zbachhh, zbaca, zbacb, zbacz, zbahhhc, zbahhh
+hhh, zbahhha, zbahhhb, zbahhhz, zbaac, zbaahhh, zbaaa, zbaab, zbaaz, zbabc, zbab
+hhh, zbaba, zbabb, zbabz, zbazc, zbazhhh, zbaza, zbazb, zbazz, zbbcc, zbbchhh, z
+bbca, zbbcb, zbbcz, zbbhhhc, zbbhhhhhh, zbbhhha, zbbhhhb, zbbhhhz, zbbac, zbbahh
+h, zbbaa, zbbab, zbbaz, zbbbc, zbbbhhh, zbbba, zbbbb, zbbbz, zbbzc, zbbzhhh, zbb
+za, zbbzb, zbbzz, zbzcc, zbzchhh, zbzca, zbzcb, zbzcz, zbzhhhc, zbzhhhhhh, zbzhh
+ha, zbzhhhb, zbzhhhz, zbzac, zbzahhh, zbzaa, zbzab, zbzaz, zbzbc, zbzbhhh, zbzba
+, zbzbb, zbzbz, zbzzc, zbzzhhh, zbzza, zbzzb, zbzzz, zzccc, zzcchhh, zzcca, zzcc
+b, zzccz, zzchhhc, zzchhhhhh, zzchhha, zzchhhb, zzchhhz, zzcac, zzcahhh, zzcaa, 
+zzcab, zzcaz, zzcbc, zzcbhhh, zzcba, zzcbb, zzcbz, zzczc, zzczhhh, zzcza, zzczb,
+ zzczz, zzhhhcc, zzhhhchhh, zzhhhca, zzhhhcb, zzhhhcz, zzhhhhhhc, zzhhhhhhhhh, z
+zhhhhhha, zzhhhhhhb, zzhhhhhhz, zzhhhac, zzhhhahhh, zzhhhaa, zzhhhab, zzhhhaz, z
+zhhhbc, zzhhhbhhh, zzhhhba, zzhhhbb, zzhhhbz, zzhhhzc, zzhhhzhhh, zzhhhza, zzhhh
+zb, zzhhhzz, zzacc, zzachhh, zzaca, zzacb, zzacz, zzahhhc, zzahhhhhh, zzahhha, z
+zahhhb, zzahhhz, zzaac, zzaahhh, zzaaa, zzaab, zzaaz, zzabc, zzabhhh, zzaba, zza
+bb, zzabz, zzazc, zzazhhh, zzaza, zzazb, zzazz, zzbcc, zzbchhh, zzbca, zzbcb, zz
+bcz, zzbhhhc, zzbhhhhhh, zzbhhha, zzbhhhb, zzbhhhz, zzbac, zzbahhh, zzbaa, zzbab
+, zzbaz, zzbbc, zzbbhhh, zzbba, zzbbb, zzbbz, zzbzc, zzbzhhh, zzbza, zzbzb, zzbz
+z, zzzcc, zzzchhh, zzzca, zzzcb, zzzcz, zzzhhhc, zzzhhhhhh, zzzhhha, zzzhhhb, zz
+zhhhz, zzzac, zzzahhh, zzzaa, zzzab, zzzaz, zzzbc, zzzbhhh, zzzba, zzzbb, zzzbz,
+ zzzzc, zzzzhhh, zzzza, zzzzb, zzzzz}
